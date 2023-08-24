@@ -1,7 +1,7 @@
 # PRIMER-CONTACTO-CON-LOS-INTERNAUTAS
 En este espacio se deja constancia del primer contacto con una raza desconocida a la cual le dicen internautas, si no sobrevivo la culpa es del teacher :v
    
-   en pimer lugar vamos a usar un codigo encriptado para poder comuicarnos con la raza de internautas, el mensaje es el siguiente
+   en primer lugar vamos a usar un codigo encriptado para poder comuicarnos con la raza de internautas, el mensaje es el siguiente
 ![image](https://github.com/JuanBarreraz/primer-contacto-con-los-internautas/assets/141855949/0f8be8c8-b5ce-4e87-86f7-981923df98f9)
 
    ## BLOC DE NOTAS 
@@ -15,7 +15,7 @@ En este espacio se deja constancia del primer contacto con una raza desconocida 
  ## GIT
   
    ya teniendo el archivo listo vamos a ejecutarlo en git bash, este programa nos ayudara como interprete en nuestra tarea de iniciar un contacto con los internautas 
-    Para abrir git simplemente pulsamos alt*click derecho y vamos a la opcion git bash here, una vez hecho esto llamamos a python para que puda leer en mensaje e interpretarlo                  
+    Para abrir git simplemente pulsamos alt+click derecho y vamos a la opcion git bash here, una vez hecho esto llamamos a python para que puda leer en mensaje e interpretarlo                  
     ![image](https://github.com/JuanBarreraz/primer-contacto-con-los-internautas/assets/141855949/6fe1b7b4-a94b-4425-8c7f-6a7f4f3bacee)
 
  ## PHYTON
